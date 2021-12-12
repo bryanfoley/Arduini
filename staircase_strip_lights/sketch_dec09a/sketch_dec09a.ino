@@ -7,7 +7,7 @@
 #include <FastLED.h>
 
 #define LED_DATA_PIN 7
-#define NUM_LEDS 200
+#define NUM_LEDS 500
 CRGB leds[NUM_LEDS];
 
 int calibrationTime = 30; 
